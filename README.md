@@ -1,0 +1,1 @@
+The overall goal is to take in a .csv file that contains [x,z] arrays that represent the top and side profiles of the blade, then pass it through a control system that will pass out steps that grinding wheel control motors will need to take.
